@@ -66,7 +66,7 @@ Currently, I am especially interested in:
 ![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-00599C?style=for-the-badge)
 ![MSP430](https://img.shields.io/badge/TI%20MSP430-CC0000?style=for-the-badge)
 ![BLE](https://img.shields.io/badge/Bluetooth%20Low%20Energy-0082FC?style=for-the-badge)
-![Altium](https://img.shields.io/badge/PCB%20Design-222222?style=for-the-badge)
+![PCB Design](https://img.shields.io/badge/PCB%20Design-222222?style=for-the-badge)
 
 - Mixed-signal PCB design
 - Sensor integration
@@ -168,7 +168,7 @@ I am passionate about developing technologies at the intersection of:
 # Connect with me
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/davidveloz)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](david.veloz1202@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:david.veloz1202@gmail.com)
 
 📫 Feel free to connect or collaborate on MedTech, imaging or embedded systems projects.
 
