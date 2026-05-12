@@ -124,7 +124,7 @@ Real-time human movement recognition system using Microsoft Kinect SDK.
 
 ---
 
-## 3D Point Cloud Analysis for Robotics
+## Traversability analysis for outdoor scenarios
 
 Algorithms for traversability analysis and obstacle detection using 3D point clouds.
 
