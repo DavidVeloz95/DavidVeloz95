@@ -1,4 +1,7 @@
-## Hi there 👋
+<div align="center">
+<h1 align="center"> Hello! I'm David Veloz 👋 </h1>
+</div>
+<img src="https://imgur.com/undefined">
 
 <!--
 **DavidVeloz95/DavidVeloz95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
