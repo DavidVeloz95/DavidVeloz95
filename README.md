@@ -112,7 +112,7 @@ Development of a wearable system for real-time kinematic data acquisition using 
 
 ## Kinect-Based Human Motion Analysis
 
-Real-time human movement recognition system using Microsoft Kinect SDK.
+Kinect-based motion capture and data acquisition system using C# and Kinect SDK, with post-processing and visualization performed in MATLAB. 
 
 ### Features
 - Human posture classification
@@ -120,7 +120,7 @@ Real-time human movement recognition system using Microsoft Kinect SDK.
 - Real-time motion analysis
 - Activity recognition algorithms
 
-**Tech stack:** C++ • Kinect SDK • Computer Vision
+**Tech stack:** C# • Kinect SDK • Computer Vision • MATLAB
 
 ---
 
