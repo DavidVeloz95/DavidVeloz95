@@ -95,6 +95,21 @@ Desktop application for visualization and analysis of medical imaging data.
 
 ---
 
+## Open Source Battery Smart Charger
+
+Smart 2S Li-Ion charger with protection, power switching and monitoring, designed in KiCad. 
+
+### Features
+- Smart charging control
+- Input overvoltage and overcurrent protection
+- Automatic source/battery switching
+- Auxiliary regulated 3.3V rail
+- Battery monitoring interfaces
+
+**Tech stack:** KiCad
+
+---
+
 ## Wearable Motion Analysis System
 
 Development of a wearable system for real-time kinematic data acquisition using IMU sensors.
