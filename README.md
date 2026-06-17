@@ -79,11 +79,11 @@ Currently, I am especially interested in:
 
 # Featured Projects
 
-## Medical Imaging Workstation *(currently in development)*
+## [Medical Imaging Workstation](https://github.com/DavidVeloz95/Medical-Imaging-Workstation)
 
-Desktop application for visualization and analysis of medical imaging data.
+Desktop application developed in Pytho for visualization and analysis of CT studies. The software supports multiplanar reconstruction (MPR), ROI analysis, segmentation, density analysis, 3D visualization and STL export.
 
-### Planned features
+### Features
 - DICOM loading and visualization
 - CT/MRI slice navigation
 - Windowing and contrast adjustment
@@ -95,7 +95,7 @@ Desktop application for visualization and analysis of medical imaging data.
 
 ---
 
-## Open Source Battery Smart Charger
+## [Open Source Battery Smart Charger](https://github.com/DavidVeloz95/Open-Source-Battery-Smart-Charger)
 
 Smart 2S Li-Ion charger with protection, power switching and monitoring, designed in KiCad. 
 
@@ -110,7 +110,7 @@ Smart 2S Li-Ion charger with protection, power switching and monitoring, designe
 
 ---
 
-## Wearable Motion Analysis System
+## [Wearable Motion Analysis System](https://github.com/DavidVeloz95/Wearable-Motion-Analysis-System)
 
 Development of a wearable system for real-time kinematic data acquisition using IMU sensors.
 
@@ -125,7 +125,7 @@ Development of a wearable system for real-time kinematic data acquisition using 
 
 ---
 
-## Kinect-Based Human Motion Analysis
+## [Kinect-Based Human Motion Analysis](https://github.com/DavidVeloz95/Kinect-Based-Human-Motion-Analysis)
 
 Kinect-based motion capture and data acquisition system using C# and Kinect SDK, with post-processing and visualization performed in MATLAB. 
 
@@ -139,7 +139,7 @@ Kinect-based motion capture and data acquisition system using C# and Kinect SDK,
 
 ---
 
-## Traversability analysis for outdoor scenarios
+## [Traversability analysis for outdoor scenarios](https://github.com/DavidVeloz95/Traversability-analysis-for-outdoor-scenarios)
 
 Algorithms for traversability analysis and obstacle detection using 3D point clouds.
 
