@@ -10,7 +10,7 @@ Biomedical & Mechatronics Engineer focused on Medical Technology, Imaging System
 <br>
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/davidveloz)
-[![GitHub followers](https://img.shields.io/github/followers/davidveloz?style=social)](https://github.com/davidveloz)
+[![GitHub followers](https://img.shields.io/github/followers/davidveloz?style=social)](https://github.com/DavidVeloz95)
 
 </div>
 
