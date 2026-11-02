@@ -10,7 +10,7 @@ Biomedical & Mechatronics Engineer focused on Medical Technology, Imaging System
 <br>
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/davidveloz)
-[![GitHub followers](https://img.shields.io/github/followers/davidveloz?style=social)](https://github.com/DavidVeloz95)
+[![GitHub followers](https://img.shields.io/github/followers/DavidVeloz95?style=social)](https://github.com/DavidVeloz95)
 
 </div>
 
@@ -49,7 +49,6 @@ Currently, I am especially interested in:
 ## Medical Imaging & Computer Vision
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![PCL](https://img.shields.io/badge/Point%20Cloud%20Library-00599C?style=for-the-badge)
 ![DICOM](https://img.shields.io/badge/DICOM-0A66C2?style=for-the-badge)
 
 - Medical image processing
@@ -81,7 +80,7 @@ Currently, I am especially interested in:
 
 ## [Medical Imaging Workstation](https://github.com/DavidVeloz95/Medical-Imaging-Workstation)
 
-Desktop application developed in Pytho for visualization and analysis of CT studies. The software supports multiplanar reconstruction (MPR), ROI analysis, segmentation, density analysis, 3D visualization and STL export.
+Desktop application developed in Python for visualization and analysis of CT studies. The software supports multiplanar reconstruction (MPR), ROI analysis, segmentation, density analysis, 3D visualization and STL export.
 
 ### Features
 - DICOM loading and visualization
@@ -121,7 +120,7 @@ Development of a wearable system for real-time kinematic data acquisition using 
 - Real-time sensor acquisition
 - Data export and visualization
 
-**Tech stack:** Kotlin • Python • BLE • IMU Sensors
+**Tech stack:** C++ • Kotlin • Python • BLE • IMU Sensors
 
 ---
 
